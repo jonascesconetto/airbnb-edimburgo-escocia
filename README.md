@@ -1,1 +1,2 @@
-# airbnb-edimburgo-escocia
+# Análise Exploratória de Dados
+Iremos analisar os dados referentes à cidade de Edinburgh, e ver quais insights podem ser extraídos a partir de dados brutos obtidos partir do site [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
